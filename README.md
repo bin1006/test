@@ -33,6 +33,13 @@
 
 ![google](https://user-images.githubusercontent.com/44859382/48183473-1d2c0080-e372-11e8-8714-d75829d42121.PNG)
 
->그림과 같이 사용자의 google 계정 페이지가 뜹니다.
+> 그림과 같이 사용자의 google 계정 페이지가 뜹니다.<br />
+> 계정을 누른 후 로그인 합니다.
+
+<br />
+
+<img width="1085" alt="google_drive" src="https://user-images.githubusercontent.com/44859382/48237240-19978880-e409-11e8-932e-1c0121052f68.PNG">
+
+
 
 
