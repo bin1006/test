@@ -40,6 +40,10 @@
 
 <img width="1085" alt="google_drive" src="https://user-images.githubusercontent.com/44859382/48237240-19978880-e409-11e8-932e-1c0121052f68.PNG">
 
+> 계정 연결에 성공시 위와 같은 화면이 뜹니다.
+<br />
 
+<img width="435" alt="google_drive2" src="https://user-images.githubusercontent.com/44859382/48237702-3208a280-e40b-11e8-97d0-e059226b74d7.PNG">
+>RaiDrive에서도 연결에 성공!
 
 
