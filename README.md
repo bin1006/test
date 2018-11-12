@@ -61,5 +61,5 @@
 
 <img width="845" alt="google_drive3" src="/google_drive3.jpg?raw=true">
 
->내 PC 드라이버 목록에도 생성이 됩니다.
+>내 PC 드라이버 목록에도 생성이 됩니다. <br />
 >RaiDrive에서 추가 할 수 있는 드라이브 목록은 최대 8개 입니다.
