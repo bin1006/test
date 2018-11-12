@@ -8,7 +8,7 @@
 > 그림에 표시된 **추가** 버튼을 **클릭**하세요.
 
 <br />
-<img width="435" alt="main" src="https://user-images.githubusercontent.com/44859382/48181023-33818e80-e369-11e8-849f-c17fc15d2995.PNG">
+<img width="435" alt="main" src="/main.jpg?raw=true">
 <br />
 
    - 클릭하면 다음과 같은 화면이 나옵니다.
