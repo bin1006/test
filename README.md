@@ -14,7 +14,7 @@
    - 클릭하면 다음과 같은 화면이 나옵니다.
 <br />
 
-<img width="435" alt="plus" src="https://user-images.githubusercontent.com/44859382/48181194-dd611b00-e369-11e8-8285-6e1a1b3e7f6d.PNG">
+<img width="435" alt="plus" src="/plus.PNG?raw=true">
 
 
 
