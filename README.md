@@ -25,9 +25,9 @@
 
 <br />
 
-<img width="435" alt="plus_red" src="https://user-images.githubusercontent.com/44859382/48182818-02588c80-e370-11e8-92cf-ec62666782f3.png">
+<img width="435" alt="plus_red" src="/plus_red.jpg?raw=true">
 
-- 빨간색으로 표시된 곳을 클릭합니다.
+- 빨간색으로 표시된 곳을 순서대로 클릭하세요.
 
 <br />
 
