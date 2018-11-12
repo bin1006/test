@@ -49,6 +49,16 @@
 
 <br />
 
+<img width="435" alt="plus_red" src="/google_drive2.jpg?raw=true">
+
+<br />
+
+> 1. google 드라이브 로고를 더블 클릭 시 google 드라이브 홈페이지로 바로가기 가능
+> 2. 드라이브 박스 더블 클릭 시 드라이브 폴더로 바로가기 가능
+> 3. 클릭 시 연결 재생, 멈춤 
+
+<br />
+
 <img width="845" alt="google_drive3" src="https://user-images.githubusercontent.com/44859382/48239222-7008c500-e411-11e8-88b5-c06936e346e6.PNG">
 
 >내 PC 드라이버 목록에도 생성이 됩니다.
