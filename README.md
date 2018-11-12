@@ -34,7 +34,7 @@
 ![google](https://user-images.githubusercontent.com/44859382/48183473-1d2c0080-e372-11e8-8714-d75829d42121.PNG)
 
 > 그림과 같이 사용자의 google 계정 페이지가 뜹니다.<br />
-> 계정을 누른 후 로그인합니다.
+> 계정을 입력 한 후 로그인합니다.
 
 <br />
 
@@ -59,6 +59,6 @@
 
 <br />
 
-<img width="845" alt="google_drive3" src="https://user-images.githubusercontent.com/44859382/48239222-7008c500-e411-11e8-88b5-c06936e346e6.PNG">
+<img width="845" alt="google_drive3" src="/google_drive3.jpg?raw=true">
 
 >내 PC 드라이버 목록에도 생성이 됩니다.
