@@ -8,11 +8,13 @@
 
 > 다운로드한 후 실행하면 위와 같은 화면이 나옵니다.                                                                                            
 > 그림에 표시된 **추가** 버튼을 클릭하세요.     
-
+- 클릭하면 다음과 같은 화면이 나옵니다.
 
 ![plus](/plus.PNG?raw=true)
 
 
 ## 2. Google Drive 추가하기 
-- 클릭하면 다음과 같은 화면이 나옵니다.
+> Google Drive를 사용하려면 Google 계정이 필요합니다.  
+[구글 계정 생성](https://www.google.com "Google")
   
+![plus](/plus.PNG?raw=true)
