@@ -1,8 +1,6 @@
-
-
-
-# ![logo](/logo.png?raw=true) 
-<!--  -->                                                                                                                                
+![logo](/logo.png?raw=true) <!--  --> 
+---------------------------------------
+                                                                                                                               
 **1. RaiDrive 다운로드 방법 알아보기**   
 - [다운로드](https://www.raidrive.com/ko/download)를 클릭하여 파일을 다운로드한 후 실행합니다.
 
