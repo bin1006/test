@@ -1,3 +1,6 @@
+
+
+
 # RaiDrive 사용법
 
 **1. RaiDrive 다운로드 방법 알아보기**
@@ -8,7 +11,7 @@
 > 그림에 표시된 **추가** 버튼을 **클릭**하세요.
 
 <br />
-<img width="435" alt="main" src="/main.jpg?raw=true">
+![main](/main.jpg?raw=true)
 <br />
 
    - 클릭하면 다음과 같은 화면이 나옵니다.
