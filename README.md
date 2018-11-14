@@ -40,7 +40,7 @@ Google Drive 추가 옵션 :
  
  ![google](/google.PNG?raw=true)  
  
-> 그림과 같이 google 계정 페이지가 뜹니다.  
+> 확인을 클릭하면 그림과 같이 google 계정 페이지가 뜹니다.  
 > **계정을 입력한 후 로그인** 합니다.  
 
 
