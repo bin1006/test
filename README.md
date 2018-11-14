@@ -13,8 +13,11 @@
 ![plus](/plus.PNG?raw=true)
 
 
-## 2. RaiDrive에 Google Drive 추가하기 
-- 먼저 Google Drive를 사용하려면 Google 계정이 필요합니다.  
+## 2. Drive 추가하는 방법 알아보기
+
+- Google Drive 추가하기
+
+> 먼저 Google Drive를 사용하려면 Google 계정이 필요합니다.  
   [구글 계정 생성](https://www.google.com "Google")
   
   1. 메뉴바 오른쪽의 **추가** 버튼을 클릭합니다.
