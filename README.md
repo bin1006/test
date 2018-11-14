@@ -44,8 +44,21 @@
 
 ![google_drive](/google_drive.jpg?raw=true)
 
-> 계정 연결에 성공 시 위와 같은 화면이 뜹니다.
+> 계정 연결에 성공 시 위와 같은 화면이 뜹니다.  
 
 ![google_drive01](/google_drive01.jpg?raw=true)
 
-> RaiDrive 에서도 연결 완료된 화면입니다.
+> RaiDrive 에서도 연결 완료된 화면입니다.  
+
+## 3. RaiDrive 기능 알아보기
+
+![google_drive02](/google_drive02.JPG?raw=true)
+
+~~~
+01) google 드라이브 로고를 더블 클릭 시 google 드라이브 홈페이지 창이 뜹니다.
+02) 드라이브 박스 더블 클릭 시 드라이브 폴더가 열립니다.
+03) 클릭 시 드라이브와의 연동을 재생 또는 멈춤이 가능합니다. 
+04) 연결된 드라이브를 삭제할 수 있습니다.
+~~~
+
+
