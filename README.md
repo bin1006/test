@@ -20,7 +20,8 @@
 > 먼저 Google Drive를 사용하려면 Google 계정이 필요합니다.  
   [구글 계정 생성](https://www.google.com "Google")
   
-  1. Google Drive 선택 후, 드라이브 문자 및 이름 설정 한 뒤 **확인** 버튼을 클릭합니다.
   
-![plus](/plus.PNG?raw=true)
+![plus](/plus_red.jpg?raw=true) 
+
+1. 1)Google Drive 선택 후, 드라이브 문자 및 이름을 설정 한 뒤 2)**확인** 버튼을 클릭합니다.
 
