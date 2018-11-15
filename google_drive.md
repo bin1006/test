@@ -23,14 +23,14 @@
  ~~~
  ---
  
- ![google](/google.PNG?raw=true)  
+ ![google_log](/goolge_log.jpg?raw=true)  
 
 1-3  확인 버튼을 클릭하면 그림과 같이 google 계정 페이지가 뜹니다.   
 1-4  **계정을 입력한 후 로그인**합니다.
 
 ---
 
-![google_drive](/google_drive.jpg?raw=true)
+![drive](/drive.jpg?raw=true)
 
 - 계정 연결에 성공 시 위와 같은 화면이 뜹니다.  
 
