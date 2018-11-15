@@ -31,8 +31,9 @@
 
 ![google_drive](/google_drive.jpg?raw=true)
 
-> 계정 연결에 성공 시 위와 같은 화면이 뜹니다.  
+- 계정 연결에 성공 시 위와 같은 화면이 뜹니다.  
 
 ![google_drive01](/google_drive01.jpg?raw=true)
 
-> RaiDrive 에서도 연결이 완료되었습니다.  
+- RaiDrive 에서도 연결이 완료되었습니다.  
+
