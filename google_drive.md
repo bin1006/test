@@ -25,7 +25,7 @@
  
  ![google](/google.PNG?raw=true)  
  #### 1.3 확인 버튼을 클릭하면 그림과 같이 google 계정 페이지가 뜹니다.  
- #### 1.4 **계정을 입력한 후 로그인** 합니다.
+ #### 1.4 계정을 입력한 후 로그인합니다.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ![google_drive01](/google_drive01.jpg?raw=true)
 
-- RaiDrive 에서도 연결이 완료되었습니다.  
+- RaiDrive에서도 연결이 완료되었습니다.  
 
 ![google_drive3](/google_drive3.jpg?raw=true)
 
