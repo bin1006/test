@@ -54,11 +54,11 @@
 
  1. google 드라이브 로고를 더블 클릭 시 google 드라이브 홈페이지 창이 뜹니다.  
 
-![google_drive005](/google_drive005.jpg?raw=true)
+![google005](/google005.jpg?raw=true)
 
  2. 드라이브 연결 박스 더블 클릭 시 연결된 드라이브 폴더가 열립니다.  
  
- ![google_drive006](/google_drive006.jpg?raw=true)
+ ![google006](/google006.jpg?raw=true)
 
  3. 클릭 시 드라이브와의 연동을 재생 또는 멈춤이 가능합니다.  
 
