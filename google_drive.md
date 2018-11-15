@@ -1,7 +1,7 @@
 # 1. 드라이브 추가
 
 ### 1-2 시작하기 전에 
-먼저 Google Drive를 사용하려면 Google 계정이 필요합니다.  
+> 먼저 Google Drive를 사용하려면 Google 계정이 필요합니다.  
 [구글 계정 생성하러 가기](https://support.google.com/accounts/answer/27441?hl=ko&ref_topic=3382296)  
 
 ### 1-3 Google Drive 추가하기
