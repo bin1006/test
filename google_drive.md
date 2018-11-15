@@ -39,9 +39,6 @@
 
 - RaiDrive에서도 연결이 완료되었습니다.  
 
-![google_drive3](/google_drive3.jpg?raw=true)
-
-- 연결이 완료되면 드라이브 도구에도 연결된 드라이브가 나타납니다.
 
 ---
 
