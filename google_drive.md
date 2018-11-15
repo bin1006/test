@@ -30,7 +30,7 @@
 
 ---
 
-![drive](/drive.jpg?raw=true)
+![drive01](/drive01.jpg?raw=true)
 
 - 계정 연결에 성공 시 위와 같은 화면이 뜹니다.  
 
@@ -46,11 +46,11 @@
 
 > RaiDrive에서 사용할 수 있는 모든 아이콘들을 설명하겠습니다.
 
-![google_drive02](/google_drive02.png?raw=true)
+![google02](/google02.png?raw=true)
 
 ### 2.1 Drive 아이콘 설명
 
-![google_drive003](/google_drive003.jpg?raw=true)
+![google04](/google04.jpg?raw=true)
 
  1. google 드라이브 로고를 더블 클릭 시 google 드라이브 홈페이지 창이 뜹니다.  
 
