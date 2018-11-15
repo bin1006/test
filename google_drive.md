@@ -23,7 +23,7 @@
  ~~~
  ---
  
- ![google_log](/goolge_log.jpg?raw=true)  
+ ![google_login](/goolge_login.jpg?raw=true)  
 
 1-3  확인 버튼을 클릭하면 그림과 같이 google 계정 페이지가 뜹니다.   
 1-4  **계정을 입력한 후 로그인**합니다.
@@ -35,7 +35,7 @@
 - 계정 연결에 성공 시 위와 같은 화면이 뜹니다.  
 
 
-![google_drive01](/google_drive01.jpg?raw=true)
+![google01](/google01.jpg?raw=true)
 
 - RaiDrive에서도 연결이 완료되었습니다.  
 
@@ -50,15 +50,15 @@
 
 ### 2.1 Drive 아이콘 설명
 
-![google04](/google04.jpg?raw=true)
+![google004](/google004.jpg?raw=true)
 
  1. google 드라이브 로고를 더블 클릭 시 google 드라이브 홈페이지 창이 뜹니다.  
 
-![google_drive05](/google_drive05.jpg?raw=true)
+![google_drive005](/google_drive005.jpg?raw=true)
 
  2. 드라이브 연결 박스 더블 클릭 시 연결된 드라이브 폴더가 열립니다.  
  
- ![google_drive06](/google_drive06.jpg?raw=true)
+ ![google_drive006](/google_drive006.jpg?raw=true)
 
  3. 클릭 시 드라이브와의 연동을 재생 또는 멈춤이 가능합니다.  
 
