@@ -50,7 +50,7 @@
 
 ### 2.1 Drive 아이콘 설명
 
-![google_drive03](/google_drive03.jpg?raw=true)
+![google_drive003](/google_drive003.jpg?raw=true)
 
  1. google 드라이브 로고를 더블 클릭 시 google 드라이브 홈페이지 창이 뜹니다.  
 
