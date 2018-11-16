@@ -42,20 +42,7 @@
  * 읽기 전용 - 파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브 목록을 표시합니다.
  ~~~
  
- 
- ### 1.4 Dtive 아이콘 설명
- 
- > RaiDrive 탐색기에서 사용할 수 있는 다양한 기능들을 설명하겠습니다.
- 
- **1. Google Logo**
- 
- ![google_logo](/google_logo?raw=true)  
- 
- 클릭 시 Google Drive 웹 페이지를 바로 출력합니다.  
- 
- ![google_web](/google_web?raw=true)
- 
- 
- **2. 
- 
+---
 
+
+# 드라이브 연결/끊기
