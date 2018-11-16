@@ -49,5 +49,5 @@
 
 > RaiDrive에서 다른 드라이브를 손쉽게 연결/끊기 가 가능합니다.
 
-![google006](/google006.jpg?raw=true)
+![stop_paly](/stop_play.jpg?raw=true)
 
