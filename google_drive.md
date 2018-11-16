@@ -47,7 +47,9 @@
 
 # 2.드라이브 연결/끊기
 
-> RaiDrive에서 다른 드라이브를 손쉽게 연결/끊기 가 가능합니다.
+- RaiDrive에서 다른 드라이브를 손쉽게 연결/끊기 가 가능합니다.
 
 ![stop_paly](/stop_play.jpg?raw=true)
+
+2.1 Stop 버튼을 클릭 시 
 
