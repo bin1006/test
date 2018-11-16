@@ -1,10 +1,10 @@
 # 1. 드라이브 추가
 
-### 1-1 시작하기 전에 
+### 1.1 시작하기 전에 
 > 먼저 Google Drive를 사용하려면 Google 계정이 필요합니다.  
 [구글 계정 생성하러 가기](https://support.google.com/accounts/answer/27441?hl=ko&ref_topic=3382296)  
 
-### 1-2 Google Drive 추가하기
+### 1.2 Google Drive 추가하기
 
 1. Google Drive **선택** 후, 드라이브 문자 및 이름을 설정한 뒤  
 2. **확인** 버튼을 클릭합니다.
@@ -21,14 +21,13 @@
 
 ![drive002](/drive002.jpg?raw=true)
 
-
 7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
 ![drive03](/drive03.jpg?raw=true)
 
 ---
 
-### 1-3 Drive 추가 옵션 설명
+### 1.3 Drive 추가 옵션 설명
 
 ![drive_plus](/drive_plus.jpg?raw=treu)
 
@@ -42,3 +41,21 @@
 
  * 읽기 전용 - 파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브 목록을 표시합니다.
  ~~~
+ 
+ 
+ ### 1.4 Dtive 아이콘 설명
+ 
+ > RaiDrive 탐색기에서 사용할 수 있는 다양한 기능들을 설명하겠습니다.
+ 
+ **1. Google Logo**
+ 
+ ![google_logo](/google_logo?raw=true)  
+ 
+ 클릭 시 Google Drive 웹 페이지를 바로 출력합니다.  
+ 
+ ![google_web](/google_web?raw=true)
+ 
+ 
+ **2. 
+ 
+
