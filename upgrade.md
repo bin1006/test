@@ -26,10 +26,10 @@
 
 6. RaiDrive를 설치 중 입니다.  
 
-![upgrade06](/upgrade06.jpg?raw=true)  
+![upgrade06](/upgrade06.png?raw=true)  
 
 7. RaiDrive가 무사히 설치 완료 되면 다음과 같은 화면이 출력됩니다.  
 
-![upgrade07](/upgrade07.jpg?raw=true)  
+![upgrade07](/upgrade07.png?raw=true)  
 
 
