@@ -22,7 +22,11 @@
 
 7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
-![drive03](/drive03.jpg?raw=true)
+![drive03](/drive03.jpg?raw=true)  
+
+8. 내 PC 드라이버에도 Google Drive가 생성되었습니다.  
+
+![google_drive_pc](/google_drive_pc.jpg?rawe=true)
 
 ---
 
