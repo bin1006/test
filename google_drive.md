@@ -50,12 +50,13 @@
 
 # 드라이브 연결/끊기
 
-- RaiDrive에서 다른 드라이브를 손쉽게 연결/끊기 가 가능합니다.
-
-![stop_paly](/stop_play.jpg?raw=true)
+- RaiDrive에서 다른 드라이브를 손쉽게 연결/끊기 가 가능합니다.  
 
 1. Stop 버튼을 클릭 시 사용 중 이었던 연결 박스가 어두워 지면서 RaiDrive와의 연동이 끊기게 됩니다.  
 2. Paly 버튼을 클릭 시 연결 박스가 밝아 지면서 RaiDrive와 연동이 시작됩니다.  
+
+![stop_paly](/stop_play.jpg?raw=true)
+
 
 ---
 
