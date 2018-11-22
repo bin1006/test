@@ -1,7 +1,7 @@
                                                                                                                               
 # RaiDrive 다운로드
 
-- [다운로드](https://www.raidrive.com/ko/download)를 클릭하여 파일을 다운로드 받습니다.  
+> [다운로드](https://www.raidrive.com/ko/download)를 클릭하여 파일을 다운로드 받습니다.  
 
 1. 다운로드를 받은 후 설치를 시작합니다.
 
