@@ -27,7 +27,7 @@
 
 ### Drive 추가 옵션 설명
 
-![drive_plus](/drive_plus.jpg?raw=treu)
+![drive_plus](/drive_plus.jpg?raw=true)
 
 ~~~
   프로그램이 시작될 때 자동 연결 - 프로그램이 시작될 때 로그인 없이 자동 연결됩니다.
@@ -47,10 +47,13 @@
 
 - RaiDrive에서 다른 드라이브를 손쉽게 연결/끊기 가 가능합니다.  
 
-1. Stop 버튼을 클릭 시 사용 중이었던 연결 박스가 어두워지면서 RaiDrive와의 연동이 끊기게 됩니다.  
-2. Paly 버튼을 클릭 시 연결 박스가 밝아지면서 RaiDrive와 연동이 시작됩니다.  
+1. 연결 끊기 버튼을 클릭 시 사용 중이었던 연결 박스가 어두워지면서 RaiDrive와의 연동이 끊기게 됩니다. 
 
-![stop_paly](/stop_play.jpg?raw=true)
+![stop](/stop.jpg?raw=true)
+
+2. 연결  버튼을 클릭 시 연결 박스가 밝아지면서 RaiDrive와 연동이 시작됩니다.  
+
+![paly](/play.jpg?raw=true)
 
 
 ---
