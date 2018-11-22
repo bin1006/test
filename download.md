@@ -11,7 +11,7 @@
 - Homepage 아이콘은 RaiDrive의 홈페이지로 바로 가는 아이콘입니다.  
 - Application 아이콘은 RaiDrive를 바로 실행 할 수 있는 아이콘입니다.  
 
-![app](/app.jpg?raw=true)
+![logo](/logo.jpg?raw=true)
 
 3. 2번의 Application 아이콘을 실행하면 다음과 같은 화면이 나옵니다.   
 
