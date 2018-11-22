@@ -21,7 +21,7 @@
 
 8. 내 PC 드라이버에도 Google Drive가 생성되었습니다.  
 
-![google_drive_pc](/google_drive_pc.jpg?rawe=true)
+![pc_google_drive](/pc_google_drive.jpg?rawe=true)
 
 ---
 
