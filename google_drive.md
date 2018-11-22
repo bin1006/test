@@ -97,6 +97,8 @@
 ![delet](/ex.jpg?raw=true)  
 ![delet](/ex.png?raw=true)  
 
+![delet](/123.png?raw=true)
+
 03. 확인 버튼을 클릭하면 드라이브 탐색기가 삭제됩니다.
 
 
