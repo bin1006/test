@@ -8,13 +8,14 @@
 ![download](/download01.jpg?raw=true)  
 
 2. 다운로드가 완료되면 바탕화면에 총 두가지의 아이콘이 나타납니다.  
- 
+- Homepage 아이콘은 RaiDrive의 홈페이지로 바로 가는 아이콘입니다.  
+- Application 아이콘은 RaiDrive를 바로 실행 할 수 있는 아이콘입니다.  
+
 ![app](/app.jpg?raw=true)
 
 
 
-1. Homepage 아이콘은 RaiDrive의 홈페이지로 바로 가는 아이콘입니다.
-2. Application 아이콘은 RaiDrive를 바로 실행 할 수 있는 아이콘입니다.
+
 
 ![main](/main.jpg?raw=true) 
 
