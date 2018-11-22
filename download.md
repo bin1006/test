@@ -13,17 +13,14 @@
 
 ![app](/app.jpg?raw=true)
 
-
-
-
-
-![main](/main.jpg?raw=true) 
-
 3. 2번의 Application 아이콘을 실행하면 다음과 같은 화면이 나옵니다.   
 
 - 그림에 표시된 **추가** 버튼을 클릭하세요   
 
-![plus](/plus.PNG?raw=true)
+![main](/main.jpg?raw=true) 
 
 > 클릭하면 다음과 같은 화면이 나옵니다.  
 > 지금부터 RaiDrive로 다양한 Drive를 연동하여 사용할 수 있는 방법을 설명하겠습니다.
+
+![plus](/plus.PNG?raw=true)
+
