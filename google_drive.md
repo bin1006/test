@@ -107,8 +107,7 @@
 ![test](/300.PNG?raw=true)
 
 
-![test](/301.png) {: width="300" height="300"}
-
+![test](/301.png?raw=true) { width=50% }
 
 
 03. 확인 버튼을 클릭하면 드라이브 탐색기가 삭제됩니다.
