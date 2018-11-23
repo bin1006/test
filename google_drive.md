@@ -3,9 +3,8 @@
 1. Google Drive **선택** 후, 드라이브 문자 및 이름을 설정한 뒤  
 2. **확인** 버튼을 클릭합니다.
 
-<img width="300" height="300">
 ![google_drive1](/google_drive1.jpg?raw=true) 
-</img> 
+
 
 3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
 4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
@@ -108,7 +107,7 @@
 
 ![test](/300.PNG?raw=true)<img width="300" height="300"></img>  
 
-
+<img src="/300.PNG?raw=true" width="300" height="300"></img>
 
 03. 확인 버튼을 클릭하면 드라이브 탐색기가 삭제됩니다.
 
