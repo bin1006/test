@@ -99,8 +99,8 @@
 
 ![delet](/123.png?raw=true)
 ![delet](/000.png?raw=true)  
-![delet](/002.png?raw=true)
-
+![delet](/002.png?raw=false)
+![title](/002.png){: width="500" height="500"}
 
 
 
