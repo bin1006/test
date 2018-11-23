@@ -99,7 +99,7 @@
 ![delet](/ex.png?raw=true)  
 
 ![delet](/123.png?raw=true)
-![delet](/000.png?raw=true)  
+![delet](/000.png){: width="600" height="600"}  
 
 
 
