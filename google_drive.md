@@ -104,7 +104,7 @@
 
 
 
-![test](/002.png?raw=false){:height="500px" width="500px"}
+![test](/bin1006/test/master/002.png){:height="500px" width="500px"}
 
 
 
