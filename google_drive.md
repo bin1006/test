@@ -104,7 +104,7 @@
 
 
 
-![test](/bin1006/test/master/002.png){:height="500px" width="500px"}
+![test](https://raw.githubusercontent.com/bin1006/test/master/002.png){:height="500px" width="500px"}
 
 
 
