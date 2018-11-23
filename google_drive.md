@@ -114,5 +114,5 @@
 
 ---
 
-![delet](/150.png?raw=true)  
+![delet](/150.PNG?raw=true)  
  
