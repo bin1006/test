@@ -104,7 +104,7 @@
 
 
 
-![test](https://raw.githubusercontent.com/bin1006/test/master/002.png =500x500)
+![test](/002.png? =500x500)
 
 
 
