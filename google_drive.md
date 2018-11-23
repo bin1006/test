@@ -104,7 +104,7 @@
 
 
 
-![test](/002.png?raw=500x500)
+![test](/002.png?raw=true | width=48)
 
 
 
