@@ -107,7 +107,7 @@
 ![test](/300.PNG?raw=true)
 
 
-![test](/301.png?raw=true)
+![test](/301.png?raw=true){: width="300" height="300"){: .center}
 
 
 
