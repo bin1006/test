@@ -109,7 +109,4 @@
 
 ---
 
-![ㅇㅇㅇ](/https://github.com/bin1006/test/blob/master/002.png?raw=true){: width="500" height="500"}
-
-
-
+![ㅇㅇㅇ](/https://github.com/bin1006/test/blob/master/002.png?500)
