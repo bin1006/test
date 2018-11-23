@@ -98,8 +98,13 @@
 ![delet](/ex.png?raw=true)  
 
 ![delet](/123.png?raw=true)
-![delet](/000.png?raw=true)  
-![delet](/002.png?raw=false)
+![delet](/000.png?raw=true) 
+
+
+
+
+
+![test](/002.png?raw=false){:height="500px" width="500px"}
 
 
 
