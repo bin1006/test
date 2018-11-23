@@ -14,7 +14,7 @@
 5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
 6. 엑세스 권한 **허용** 을 클릭합니다.
 
-![access](/login_02.PNG?raw=true)
+![access](/login_access.PNG?raw=true)
 
 7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
