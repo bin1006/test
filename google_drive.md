@@ -107,7 +107,7 @@
 ![test](/300.PNG?raw=true)
 
 
-![test](/300.PNG?raw=true)<img width="500" height="500"></img>
+![test](/302.PNG?raw=true)<img width="500" height="500"></img>
 
 
 03. 확인 버튼을 클릭하면 드라이브 탐색기가 삭제됩니다.
