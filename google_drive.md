@@ -96,21 +96,7 @@
 
 2. 드라이브 연동이 끊긴 후 휴지통 아이콘을 클릭하면 다음과 같은 화면이 뜹니다.
 
-![delet](/delet.PNG?raw=true)
-
-
-
-
-
-![test](/300.PNG?raw=true)<img width="300" height="300"></img>  
-
-<img src="/003.png?raw=true" width="600" height="114"></img>
+![delet](/delet.PNG?raw=true)  
 
 03. 확인 버튼을 클릭하면 드라이브 탐색기가 삭제됩니다.
 
-
----
-
-![delet](/870.PNG?raw=true)   
-![delet](/100px.PNG?raw=true)  
-![delet](/0125.PNG?raw=true)  
