@@ -21,4 +21,20 @@
   
   ![proxy](/proxy04.PNG?raw=true)
   
-  4. 
+  4. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.  
+  5. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
+
+  ![login](/login_google.PNG?raw=true)  
+  
+  6. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
+  7. 엑세스 권한 **허용** 을 클릭합니다.
+
+  ![access](/google_access.PNG?raw=true)
+
+  8. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
+
+  ![google_z_drive](/google_z.PNG?rawe=true)
+
+  9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.  
+
+  ![google_pc_drive](/google_pc_drive.PNG?rawe=true)
