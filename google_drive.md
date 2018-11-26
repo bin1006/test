@@ -67,15 +67,15 @@
 1. 연결 상태를 멈춤으로 설정합니다.  
    (드라이브 연결 중에는 편집이 불가능합니다.)  
    
-![edit01](/edit01.jpg?raw=true)  
+![stop](/stop.PNG?raw=true)  
    
 2. 연결 상태가 멈춤으로 변경되면 설정 버튼을 클릭합니다.
 
-![edit02](/edit02.jpg?raw=true)  
+![stop_setting](/stop_setting.PNG?raw=true)  
 
 3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.  
 
-![edit03](/edit03.jpg?raw=true)  
+![setting](/setting.PNG?raw=true)  
 
 4. 사용자가 원하는 연결 상태로 편집 할 수 있습니다.
 
@@ -92,7 +92,7 @@
 
 1. 드라이브 탐색기를 삭제하려는 경우 먼저 드라이브 연결 끊기 버튼을 클릭하세요.
 
-![stop](/stop.jpg?raw=true)  
+![stop](/stop.PNG?raw=true)  
 
 2. 드라이브 연동이 끊긴 후 휴지통 아이콘을 클릭하면 다음과 같은 화면이 뜹니다.
 
