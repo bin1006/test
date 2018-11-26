@@ -20,7 +20,7 @@
 
 ![google_z_drive](/google_z.PNG?rawe=true)
 
-8. 내 PC 드라이에도 Google Drive가 생성되었습니다.  
+8. 내 PC 드라이브에도 Google Drive가 생성되었습니다.  
 
 ![google_pc_drive](/google_pc_drive.PNG?rawe=true)
 
