@@ -27,7 +27,7 @@
 
 ---
 
-### Drive 추가 옵션 설명
+### Drive 옵션 설명
 
 ![drive_plus](/drive_plus.jpg?raw=true)
 
