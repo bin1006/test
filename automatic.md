@@ -4,8 +4,8 @@
 
 ![automatic](/automatic.PNG?raw=true)  
 
-2.부팅 또는 재부팅을 하게 될 경우 RaiDrive가 자동으로 드라이브와의 연결을 실행합니다.  
+2.부팅 또는 재부팅을 하게 될 경우 RaiDrive가 자동으로 드라이브와의 연결을 실행시켜줍니다.  
 
-![automatic_icon](/automatic_icon.PNG?raw=true)  
+![icon](/icon.PNG?raw=true)  
 
 
