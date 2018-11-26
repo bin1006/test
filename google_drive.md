@@ -96,11 +96,7 @@
 
 2. 드라이브 연동이 끊긴 후 휴지통 아이콘을 클릭하면 다음과 같은 화면이 뜹니다.
 
-![delet](/ex.jpg?raw=true)  
-![delet](/ex.png?raw=true)  
-
-![delet](/123.png?raw=true)
-![delet](/000.png){:width="600px" height="600px"}
+![delet](/delet.PNG?raw=true)
 
 
 
