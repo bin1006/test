@@ -3,7 +3,7 @@
 1. Google Drive **선택** 후, 드라이브 문자 및 이름을 설정한 뒤  
 2. **확인** 버튼을 클릭합니다.
 
-![plus](/plus.PNG?raw=true) 
+![first](/first.PNG?raw=true) 
 
 
 3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
