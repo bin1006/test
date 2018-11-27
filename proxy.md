@@ -42,4 +42,15 @@
 
   10. 내 PC 드라이브에도 Google Drive가 생성되었습니다.  
 
-  ![google_pc_drive](/google_pc_drive.PNG?rawe=true)
+  ![google_pc_drive](/google_pc_drive.PNG?rawe=true)  
+  
+  
+  11. 프록시를 이용해서 RaiDrive와 연결이 완료되면 아래와 같은 화면이 출력됩니다.  
+  
+  ![proxy05](/proxy05.PNG?raw=true)  
+  
+  12. 프록시 서버 설정 변경을 원하는 경우 실행중인 드라이브 연결을 중단한 후 설정 버튼을 클릭 합니다.  
+  
+  ![proxy06](/proxy06.PNG?raw=true)  
+  
+  13. 
