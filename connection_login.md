@@ -1,8 +1,16 @@
 # 드라이브 연결 시 로그인  
 
 
-1. 처음 드라이브 추가시 연결할때마다 로그인 박스를 체크한 후 드라이브를 연결해줍니다.  
+1. 드라이브 추가시 연결할때마다 로그인 박스를 체크한 후 드라이브를 연결해줍니다.  
 
 ![login_checkbox](/login_checkbox.PNG?raw=true)  
 
 
+2.  RaiDrive 아이콘을 오른쪽 마우스로 클릭하여 종료하기 버튼을 클릭합니다.  
+
+![raidrive_off](/raidrive_off.PNG?raw=true)  
+
+
+3. 종료 전에 모든 드라이브 연결을 해제합니다. 예 버튼을 클릭합니다.  
+
+![off](/off.PNG?raw=true)
