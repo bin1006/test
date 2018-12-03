@@ -17,7 +17,7 @@
 ![off](/off.PNG?raw=true)  
 
 
-4. RaiDrive를 재실행 하면 연결됐었던 드라이브가 로그아웃 상태가 된 걸 볼 수 있습니다.
+4. RaiDrive를 재실행 하면 연결됐었던 드라이브가 로그아웃 상태가 된  볼 수 있습니다.
 
 ![logout](/logout.PNG?raw=true)  
 
