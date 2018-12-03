@@ -35,7 +35,7 @@
     RaiDrive가 시작될 때 스토리지와 자동 연결됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)  
 
   - 연결할 때마다 로그인  
-    스토리지에 연결을 시도할 때마다 로그인을 요청합니다. [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
+    드라이브에 연결을 시도할 때마다 로그인을 요청합니다. [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
   
   - 프록시  
     보안과 인터넷 속도의 향상을 위해 개인 및 회사, 사설 프록시 서버를 사용할 수 있습니다.  
