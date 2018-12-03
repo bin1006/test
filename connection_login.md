@@ -11,6 +11,17 @@
 ![raidrive_off](/raidrive_off.png?raw=true)  
 
 
-3. 종료 전에 모든 드라이브 연결을 해제합니다. 예 버튼을 클릭합니다.  
+3. 종료 전에 모든 드라이브 연결을 해제합니다.  
+   예 버튼을 클릭합니다.  
 
-![off](/off.PNG?raw=true)
+![off](/off.PNG?raw=true)  
+
+
+4. RaiDrive를 재실행 합니다.  
+   연결됐었던 드라이브가 로그아웃 상태가 되었습니다.  
+
+![logout](/logout.PNG?raw=true)  
+
+
+5. 드라이브 연결이 필요할때 마다 로그인 과정을 거쳐야합니다.  
+
