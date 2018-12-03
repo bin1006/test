@@ -25,3 +25,4 @@
 
 5. 이제 드라이브 연결이 필요할 때마다 로그인 과정을 거쳐야 합니다.  
 
+![login](/login_google.PNG?raw=true)
