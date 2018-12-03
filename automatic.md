@@ -4,6 +4,6 @@
 
 ![automatic](/automatic.PNG?raw=true)  
 
-2. 부팅 또는 재부팅을 한 뒤 RaiDrive를 실행하면 로그인 과정 없이 드라이브와 연결됩니다.
+2. 연결 성공 후 부팅 또는 재부팅을 한 뒤 RaiDrive를 실행하면 로그인 과정 없이 드라이브와 연결됩니다.
 
 ![connection](/drive_connection.PNG?raw=true)  
