@@ -12,8 +12,7 @@
 ![raidrive_off](/raidrive_off.png?raw=true)  
 
 
-3. 종료 전에 모든 드라이브 연결을 해제합니다.  
-   예 버튼을 클릭합니다.  
+3. 종료 전에 모든 드라이브 연결을 해제합니다.    
 
 ![off](/off.PNG?raw=true)  
 
