@@ -6,7 +6,8 @@
 ![login_checkbox](/login_checkbox.PNG?raw=true)  
 
 
-2.  RaiDrive 아이콘을 오른쪽 마우스로 클릭하여 종료하기 버튼을 클릭합니다.  
+2. 드라이브 연결을 완전히 종료해야지만 다음 실행 시 로그인 과정이 나타납니다.  
+   RaiDrive 아이콘을 오른쪽 마우스로 클릭하여 종료하기 버튼을 클릭합니다.  
 
 ![raidrive_off](/raidrive_off.png?raw=true)  
 
@@ -17,8 +18,7 @@
 ![off](/off.PNG?raw=true)  
 
 
-4. RaiDrive를 재실행 합니다.  
-   연결됐었던 드라이브가 로그아웃 상태가 되었습니다.  
+4. RaiDrive를 재실행 하면 연결됐었던 드라이브가 로그아웃 상태가 되었습니다.  
 
 ![logout](/logout.PNG?raw=true)  
 
