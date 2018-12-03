@@ -8,7 +8,7 @@
 
 2.  RaiDrive 아이콘을 오른쪽 마우스로 클릭하여 종료하기 버튼을 클릭합니다.  
 
-![raidrive_off](/raidrive_off.PNG?raw=true)  
+![raidrive_off](/raidrive_off.png?raw=true)  
 
 
 3. 종료 전에 모든 드라이브 연결을 해제합니다. 예 버튼을 클릭합니다.  
