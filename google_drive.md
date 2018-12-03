@@ -42,7 +42,7 @@
     (프록시 서버 설정은 메뉴바의 설정 란에서 할 수 있습니다.) [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md)
             
   - 읽기 전용  
-    파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브 목록을 표시합니다. [자세히보기](https://www.raidrive.com/ko/download)
+    파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브 목록을 표시합니다. [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
 ---
 
