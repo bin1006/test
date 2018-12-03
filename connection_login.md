@@ -14,7 +14,7 @@
 
 3. 종료 전에 모든 드라이브 연결을 **해제**합니다.      
 
-![off](/off.PNG?raw=true)  
+![off](/log_off.PNG?raw=true)  
 
 
 4. RaiDrive를 재실행 하면 연결됐었던 드라이브가 **로그아웃 상태**가 된  볼 수 있습니다.
