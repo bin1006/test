@@ -32,7 +32,7 @@
 
 
   - 프로그램이 시작될 때 자동 연결  
-    프로그램이 시작될 때 로그인 없이 자동 연결됩니다. [자세히보기](https://www.raidrive.com/ko/download)  
+    프로그램이 시작될 때 로그인 없이 자동 연결됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)  
 
   - 연결할 때마다 로그인  
     Google Drive에 연결 시도할 때마다 로그인을 요청합니다. [자세히보기](https://www.raidrive.com/ko/download)
