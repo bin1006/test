@@ -4,6 +4,6 @@
 
 ![automatic](/automatic.PNG?raw=true)  
 
-2. 드라이브와 연결 성공 후 RaiDrive가 실행 될 때 마다 자동 연결 됩니다.
+2. 드라이브 연결에 성공하면 RaiDrive가 실행 될 때 마다 자동 연결 됩니다.
 
 ![connection](/drive_connection.PNG?raw=true)  
