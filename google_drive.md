@@ -39,7 +39,7 @@
 
 
   - 프로그램이 시작될 때 자동 연결  
-    RaiDrive가 시작될 때 스토리지와 자동 연결됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)  
+    RaiDrive가 시작될 때 드라이브와 자동 연결됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)  
 
   - 연결할 때마다 로그인  
     드라이브에 연결을 시도할 때마다 로그인을 요청합니다. [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
@@ -49,7 +49,7 @@
     (프록시 서버 설정은 메뉴바의 설정 란에서 할 수 있습니다.) [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
             
   - 읽기 전용  
-    파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브가 실행됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
+    드라이브 연결 시  읽기만 가능합니다. [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
 ---
 
