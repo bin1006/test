@@ -46,7 +46,7 @@
   
   - 프록시  
     보안과 인터넷 속도의 향상을 위해 개인 및 회사, 사설 프록시 서버를 사용할 수 있습니다.  
-    (프록시 서버 설정은 메뉴바의 설정 란에서 할 수 있습니다.) [자세히보기](proxy.md)
+    (프록시 서버 설정은 메뉴바의 설정 란에서 할 수 있습니다.) [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
             
   - 읽기 전용  
     파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브가 실행됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
