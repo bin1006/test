@@ -8,26 +8,26 @@ RaiDrive를 통해 총 8가지의 스토리지와 연결이 가능하며, 중요
 ~~~
 
 
-1. Google Drive **선택** 후, 드라이브 문자 및 이름을 설정하고 **확인** 버튼을 클릭합니다.
+1. Google Drive **선택** 후, 드라이브 문자 및 이름을 설정하고 **확인** 버튼을 클릭합니다.  
+2. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
 
 ![first](/first.PNG?raw=true) 
 
 
-3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
-4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
+3. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
 
 ![login](/login_google.PNG?raw=true)  
 
-5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
-6. 엑세스 권한 **허용** 을 클릭합니다.
+4. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
+5. 엑세스 권한 **허용** 을 클릭합니다.
 
 ![access](/google_access.PNG?raw=true)
 
-7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
+6. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
 ![google_z_drive](/google_z.PNG?rawe=true)
 
-8. 내 PC 드라이브에도 Google Drive가 생성되었습니다.  
+7. 내 PC 드라이브에도 Google Drive가 생성되었습니다.  
 
 ![google_pc_drive](/google_pc_drive.PNG?rawe=true)
 
