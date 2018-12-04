@@ -5,12 +5,17 @@
   
   1. 상단 메뉴바에 위치한 **설정** 버튼을 클릭합니다.
   
-  ![proxy00](/proxy00.PNG?raw=true)  
+  ![proxy01](/proxy_setting01.PNG?raw=true)  
     
   
-  2. 프록시 입력 란에 사용할 **프록시 서버 주소와 포트번호를 입력**한 후, 뒤로가기 버튼을 클릭합니다.  
+  2. 프록시를 사용하려면 HTTP 입력 란에 사용할 **프록시 서버 주소와 포트번호를 입력**한 후, 뒤로가기 버튼을 클릭합니다.  
   
-  ![proxy02](/proxy02.PNG?raw=true)  
+  ![proxy02](/proxy_setting02.PNG?raw=true)  
+  
+  
+ 3. 프록시 사용을 안할경우 None 체크박스를 클릭합니다.  
+ 
+ ![proxy03](/proxy_setting03.PNG?raw=true) 
   
   
   
