@@ -17,20 +17,17 @@
  
  ![proxy03](/setting03.PNG?raw=true)  
  
+ 
   
+ ## 프록시 사용  
   
-  
-  
-  
-  ## 프록시 사용  
-  
-  1. **프록시 체크박스를 클릭**하면 프록시로 이용하여 **드라이브에 연결**할 수 있습니다.  
+1. **프록시 체크박스를 클릭**하면 프록시로 이용하여 **드라이브에 연결**할 수 있습니다.  
        
-  ![proxy](/proxy04.PNG?raw=true)  
+![proxy](/proxy04.PNG?raw=true)  
 
   
   
-  2. 프록시를 이용하여 RaiDrive와 연결이 완료되면 아래와 같이 프록시 아이콘이 생성됩니다.  
+2. 프록시를 이용하여 RaiDrive와 연결이 완료되면 아래와 같이 프록시 아이콘이 생성됩니다.  
   
-  ![proxy05](/proxy05.PNG?raw=true) 
+![proxy05](/proxy05.PNG?raw=true) 
   
