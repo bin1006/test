@@ -38,7 +38,7 @@
 
 7. 내PC 드라이브에서도 WebDAV가 생성되었습니다.  
 
-![webdav_06](/webdav_05.PNG?raw=true)  
+![webdav_06](/webdav_06.PNG?raw=true)  
 
 
    
