@@ -16,6 +16,7 @@
  3. **프록시 사용을 안할경우 None** 체크박스를 클릭합니다.  
  
  ![proxy03](/setting03.PNG?raw=true)  
+ 
   
   
   
