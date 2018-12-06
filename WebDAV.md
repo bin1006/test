@@ -14,8 +14,7 @@
 3. 사용할 장비를 선택합니다.  
    (사용자는 QNAP으로 설정했습니다.)  
    
-   
-   ![webdav_02](/webdav_02.PNG?raw=true)  
+![webdav_02](/webdav_02.PNG?raw=true)  
    
    
 4. 프로토콜을 선택후 주소와 포트번호를 입력합니다.  
@@ -29,7 +28,7 @@
 5. 사용자 계정 아이디와 비밀번호를 입력후 확인 버튼을 클릭합니다.  
    - 드라이브 연결에 계정이 불필요한 사용자는 익명 체크박스를 클릭하세요.  
    
-   ![webdav_04](/webdav_04.PNG?raw=true)  
+![webdav_04](/webdav_04.PNG?raw=true)  
    
    
 6. 
