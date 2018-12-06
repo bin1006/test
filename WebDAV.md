@@ -18,15 +18,16 @@
    
    
 4. 프로토콜을 선택후 WebDAV 서버 주소와 포트번호를 입력합니다.  
+   - 경로를 입력한 후 드라이브 연결시 입력된 경로로 연결됩니다.
      
-![webdav_03](/webdav_03.PNG?raw=true)  
+![webdav_003](/webdav_003.PNG?raw=true)  
 
 
    
 5. 사용자 계정 아이디와 비밀번호를 입력후 확인 버튼을 클릭합니다.  
    - 드라이브 연결에 계정이 불필요한 사용자는 익명 체크박스를 클릭하세요.  
    
-![webdav_04](/webdav_04.PNG?raw=true)  
+![webdav_004](/webdav_004.PNG?raw=true)  
    
    
 6. 
