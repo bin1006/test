@@ -17,9 +17,7 @@
 ![webdav_02](/webdav_02.PNG?raw=true)  
    
    
-4. 프로토콜을 선택후 주소와 포트번호를 입력합니다.  
-   - 경로 입력창에 폴더명을 입력한 후 드라이브 연결시 입력했던 폴더창이 출력됩니다.  
-     ex) /download  
+4. 프로토콜을 선택후 WebDAV 서버 주소와 포트번호를 입력합니다.  
      
 ![webdav_03](/webdav_03.PNG?raw=true)  
 
