@@ -41,4 +41,9 @@
 ![synology_05](/synology_05.PNG?raw=true)  
 
 
-   
+---  
+
+
+# 드라이브 옵션 설명  
+
+
