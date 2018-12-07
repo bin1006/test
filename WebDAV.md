@@ -11,10 +11,14 @@
 ![webdav_01](/webdav_01.PNG?raw=true)  
 
 
-3. 사용할 장비를 선택합니다.  
+3. 사용할 장비는 선택 사항입니다.
    (사용자는 QNAP으로 설정했습니다.)  
-   
-![webdav_02](/webdav_02.PNG?raw=true)  
+   - 먼저 NAS의 WebDAV 서버가 활성화 되어야 합니다.  
+   - [Synology](https://www.synology.com/ko-kr/knowledgebase/DSM/tutorial/File_Sharing/How_to_access_files_on_Synology_NAS_with_WebDAV)  
+   - [QNAP](https://www.qnap.com/ko-kr/how-to/tutorial/article/webdav%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-qnap-%EC%9B%90%EA%B2%A9-%EC%95%A1%EC%84%B8%EC%8A%A4)  
+   - [ipTIME](http://iptime.com/iptime/?page_id=67&pageid=1&mod=document&keyword=raidrive&x=22&y=15&uid=18934)  
+      
+![synology_01](/synology_01.PNG?raw=true)  
    
    
 4. 프로토콜을 선택후 WebDAV 서버 주소와 포트번호를 입력합니다.  
