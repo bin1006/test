@@ -1,6 +1,6 @@
-# 드라이브 추가  
+# Google Drive   
 
-- Google Drive 연결  
+## 드라이브 추가  
 
 1. 스토리지에서 Google Drive를 선택합니다.  
 2. 드라이브 옵션 설정한 후 확인 버튼을 클릭합니다.
