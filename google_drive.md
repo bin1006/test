@@ -1,9 +1,8 @@
 # 드라이브 추가  
 
+- Google Drive 연결  
 
-
-
-1. Google Drive **선택** 후, 드라이브 문자 및 이름을 설정하고 **확인** 버튼을 클릭합니다.  
+1. 스토리지에서 Google Drive를 선택합니다.  
 
 ![first](/first.PNG?raw=true) 
 
