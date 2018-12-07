@@ -38,7 +38,7 @@
 
 7. 내PC 드라이브에서도 WebDAV가 생성되었습니다.  
 
-![synology_04](/synology_04.PNG?raw=true)  
+![synology_05](/synology_05.PNG?raw=true)  
 
 
    
