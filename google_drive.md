@@ -3,8 +3,16 @@
 - Google Drive 연결  
 
 1. 스토리지에서 Google Drive를 선택합니다.  
+2. 드라이브 옵션 설정한 후 확인 버튼을 클릭합니다.
 
-![first](/first.PNG?raw=true) 
+- 드라이브 옵션 설명  
+  - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)  
+  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)  
+  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)  
+  - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)  
+
+![google_01](/google_01.PNG?raw=true)  
+
 
 
 2. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
@@ -26,29 +34,6 @@
 
 ![google_pc_drive](/google_pc_drive.PNG?rawe=true)
 
-
----
-
-# 드라이브 옵션 설명  
-
-
-
-
-![drive_plus](/drive_plus.jpg?raw=true)
-
-
-  - 프로그램이 시작될 때 자동 연결  
-    RaiDrive가 시작될 때 드라이브와 자동 연결됩니다. [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)  
-
-  - 연결할 때마다 로그인  
-    드라이브에 연결을 시도할 때마다 로그인을 요청합니다. [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
-  
-  - 프록시  
-    보안과 인터넷 속도의 향상을 위해 개인 및 회사, 사설 프록시 서버를 사용할 수 있습니다.  
-    (프록시 서버 설정은 메뉴바의 설정 란에서 할 수 있습니다.) [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
-            
-  - 읽기 전용  
-    드라이브 연결 시  읽기만 가능합니다. [자세히보기](https://github.com/bin1006/test/blob/master/read.md)  
     
 
 ---
