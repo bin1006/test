@@ -64,19 +64,7 @@
 
 - 드라이브를 생성한 후에도 연결 상태를 편집할 수 있습니다.  
 
-1. 연결 상태를 멈춤으로 설정합니다. [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/google_drive.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
-
-
-
-
-
-
-
-
-
-
-
-(드라이브 연결 중에는 편집이 불가능합니다.)  
+1. 연결 상태를 멈춤으로 설정합니다. [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/google_drive.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)(드라이브 연결 중에는 편집이 불가능합니다.)  
    
 2. 연결 상태가 멈춤으로 변경되면 설정 버튼을 클릭합니다.
 
