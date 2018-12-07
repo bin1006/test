@@ -47,5 +47,5 @@
 # 드라이브 옵션 설명  
 
 
-[!INCLUDE[](/google_drive.md)]
+[!INCLUDE](/google_drive.md)]
 
