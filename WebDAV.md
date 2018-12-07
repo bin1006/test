@@ -11,8 +11,8 @@
 ![webdav_01](/webdav_01.PNG?raw=true)  
 
 
-3. 사용할 장비는 선택 사항입니다.
-   (사용자는 QNAP으로 설정했습니다.)  
+3. 사용할 장비는 선택 사항입니다.  
+ 
 - 먼저 NAS의 WebDAV 서버가 활성화 되어야 합니다.  
   - [Synology](https://www.synology.com/ko-kr/knowledgebase/DSM/tutorial/File_Sharing/How_to_access_files_on_Synology_NAS_with_WebDAV)  
   - [QNAP](https://www.qnap.com/ko-kr/how-to/tutorial/article/webdav%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-qnap-%EC%9B%90%EA%B2%A9-%EC%95%A1%EC%84%B8%EC%8A%A4)  
