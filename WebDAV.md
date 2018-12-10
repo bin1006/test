@@ -9,8 +9,8 @@
 
 - 드라이브 옵션 설명
   - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
-  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md) 
-  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9) 
+  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
+  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
 
@@ -25,35 +25,39 @@
   - [ipTIME](http://iptime.com/iptime/?page_id=67&pageid=1&mod=document&keyword=raidrive&x=22&y=15&uid=18934)
   
   
-4. 프로토콜을 선택후 WebDAV 서버 주소와 포트번호를 입력합니다. 
+4. 프로토콜을 선택후 WebDAV 서버 주소와 포트번호를 입력합니다.
    - 경로 입력은 선택 사항입니다.
    - 경로를 입력한 후 드라이브 연결시 입력된 경로로 연결됩니다.
       
-![synology_2](/synology_2.PNG?raw=true)  
+![synology_2](/synology_2.PNG?raw=true)
    
    
 
-5. 사용자 계정 아이디와 비밀번호를 입력후 확인 버튼을 클릭합니다.  
-   - 드라이브 연결시 계정이 불필요한 사용자는 익명 체크박스를 클릭하세요.  
+5. 사용자 계정 아이디와 비밀번호를 입력후 확인 버튼을 클릭합니다.
+   - 드라이브 연결시 계정이 불필요한 사용자는 익명 체크박스를 클릭하세요.
      
-![synology_3](/synology_3.PNG?raw=true)  
+![synology_3](/synology_3.PNG?raw=true)
 
 
-6. WebDAV와 연결에 성공했습니다.  
+6. WebDAV와 연결에 성공했습니다.
 
-![synology_4](/synology_4.png?raw=true)  
+![synology_4](/synology_4.png?raw=true)
 
 
-7. 내PC 드라이브에서도 WebDAV가 생성되었습니다.  
+7. 내PC 드라이브에서도 WebDAV가 생성되었습니다.
 
-![synology_5](/synology_5.PNG?raw=true)  
+![synology_5](/synology_5.PNG?raw=true)
 
 
 ---  
 
 
-# 드라이브 옵션 설명  
+# 드라이브 연결/끊기
 
+- RaiDrive에서 연결된 스토리지를 손쉽게 연결/끊기가 가능합니다.
 
-[!INCLUDE](/google_drive.md)]
+1. 연결 끊기 버튼을 클릭 시 사용 중이었던 스토리지 연결이 끊기게 됩니다.
+
+![ ]
+
 
