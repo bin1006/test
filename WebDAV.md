@@ -95,7 +95,7 @@
 
 1. 스토리지를 삭제하려는 경우 먼저 드라이브 연결 정지 상태로 변환 후 휴지통 아이콘을 클릭합니다.
 
-![webdav_delet1](/webdav_delet1.PNG?raw=true)
+![webdav_delet1](/webdav_delet1.png?raw=true)
 
 2. 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
 
