@@ -49,7 +49,7 @@
 
 ![drive_stop](/drive_stop.png?raw=true)
 
-2. 연결 버튼을 클릭 시 스토리지 연동 상태가 밝아지면서 RaiDrive와 연결이 시작됩니다.
+2. 연결 버튼을 클릭 시 스토리지 연동 상태가 밝아지면서 연결이 시작됩니다.
 
 ![drive_paly](/drive_play.png?raw=true)
 
