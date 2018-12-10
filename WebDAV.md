@@ -14,7 +14,7 @@
   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
 
-![synology_1](/synolongy_1.PNG?raw=true)  
+![synology_1](/synology_1.PNG?raw=true)  
 
 
 3. 사용할 장비는 선택 사항입니다.  
