@@ -36,7 +36,7 @@
 5. 사용자 계정 아이디와 비밀번호를 입력후 확인 버튼을 클릭합니다.  
    - 드라이브 연결시 계정이 불필요한 사용자는 익명 체크박스를 클릭하세요.  
      
-![synology_02](/synology_02.PNG?raw=true)  
+![synology_3](/synology_3.PNG?raw=true)  
 
 
 6. WebDAV와 연결에 성공했습니다.  
