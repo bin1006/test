@@ -75,11 +75,30 @@
 1. 연결된 스토리지를 정지 시킵니다.
 
 - [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/WebDAV.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
-
-- 드라이브 연결 중에는 편집이 불가능합니다.
+  - 드라이브 연결 중에는 편집이 불가능합니다.
 
 2. 스토리지 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
 
+![stop_setting](/stop_setting.png?raw=true)
+
+3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
+
 ![webdav_setting](/webdav_setting.PNG?raw=true)
 
+4. 사용자가 원하는 연결 상태로 편집 할 수 있습니다.
 
+
+
+# 드라이브 삭제
+
+- 드라이브 생성 후 불필요한 스토리지를 손쉽게 삭제할 수 있습니다.
+
+1. 스토리지를 삭제하려는 경우 먼저 드라이브 연결 정지 상태로 변환 후 휴지통 아이콘을 클릭합니다.
+
+![webdav_delet1](/webdav_delet1.PNG?raw=true)
+
+2. 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
+
+![webdav_delet2](/webdav_delet2.PNG?raw=true)
+
+3. 확인 버튼을 클릭하면 스토리지가 삭제됩니다.
