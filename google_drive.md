@@ -70,7 +70,7 @@
    
 2. 연결 상태가 멈춤으로 변경되면 설정 버튼을 클릭합니다.
 
-![stop_setting](/stop_setting.PNG?raw=true)
+![googledrive_setting](/googledrive_setting.PNG?raw=true)
 
 3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
 
