@@ -68,7 +68,7 @@
   
   - 드라이브 연결 중에는 편집이 불가능합니다.
    
-2. 연결이 중되면 설정 버튼을 클릭합니다.
+2. 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
 
 ![googledrive_setting](/googledrive_setting.PNG?raw=true)
 
