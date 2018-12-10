@@ -90,13 +90,13 @@
 - 드라이브 생성 후 불필요한 스토리지를 손쉽게 삭제할 수 있습니다.
 
 
-1. 스토리지를 삭제하려는 경우 먼저 드라이브 연결 정지 버튼을 클릭하세요.
+1. 스토리지를 삭제하려는 경우 먼저 드라이브 연결 정지 상태로 변환 후 휴지통 아이콘을 클릭합니다.
 
-![drive_stop](/drive_stop.png?raw=true)
+![drive_delet1](/drive_delet1.PNG?raw=true)
 
-2. 드라이브 연결이 정지된 후 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
+2. 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
 
-![drive_delet](/drive_delet.PNG?raw=true)
+![drive_delet2](/drive_delet2.PNG?raw=true)
 
 3. 확인 버튼을 클릭하면 스토리지가 삭제됩니다.
 
