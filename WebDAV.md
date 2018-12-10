@@ -41,7 +41,7 @@
 
 6. WebDAV와 연결에 성공했습니다.  
 
-![synology_03](/synology_03.png?raw=true)  
+![synology_4](/synology_4.png?raw=true)  
 
 
 7. 내PC 드라이브에서도 WebDAV가 생성되었습니다.  
