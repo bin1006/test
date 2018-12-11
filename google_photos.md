@@ -11,6 +11,8 @@
   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
+- Google Photos는 읽기 전용만 가능합니다.
+
 ![google_photos1](/google_photos1.PNG?raw=true)
 
 
