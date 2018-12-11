@@ -30,9 +30,13 @@
 
 ![google_photos2](/google_photos2.PNG?rawe=true)
 
-8. 내 PC 드라이브에도 Google Photos가 생성되었습니다.
+8. Google Photos와 연결에 성공했습니다.
 
 ![google_photos3](/google_photos3.PNG?raw=true)
+
+9. 내 PC 드라이브에도 Google Photos가 생성되었습니다.
+
+![google_photos4](/google_photos4.PNG?raw=true)
 
 
 ---
