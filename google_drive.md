@@ -31,7 +31,7 @@
 
 8. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
 
-![pc_drive](/pc_drive.PNG?rawe=true)
+![pc_drive](/pc_drive.PNG?raw=true)
 
     
 
