@@ -29,7 +29,11 @@
 
 ![google_drive(z)](/google_drive(z).PNG?rawe=true)
 
-8. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
+8. Google Drive와 연결에 성공했습니다.
+
+![google_drive](/google_drive.PNG?raw=true)
+
+9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
 
 ![pc_drive](/pc_drive.PNG?raw=true)
 
