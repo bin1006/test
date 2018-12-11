@@ -24,7 +24,7 @@
 5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
 6. 엑세스 권한 **허용** 을 클릭합니다.
 
-![access](/access.PNG?raw=true)
+![photo_access](/photo_access.PNG?raw=true)
 
 7. 엑세스 권한이 허용되면 RaiDrive가 Google Photos에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
@@ -40,3 +40,17 @@
 
 
 ---
+
+## 드라이브 연결/끊기
+
+- RaiDrive에서 연결된 스토리지를 손쉽게 연결/끊기 가능합니다.
+
+1. 연결 끊기 버튼을 클릭 시 사용 중이었던 스토리지 연동 상태가 어두워지면서 연결이 끊기게 됩니다. 
+
+![drive_stop](/drive_stop.png?raw=true)
+
+2. 연결 버튼을 클릭 시 스토리지 연동 상태가 밝아지면서 연결이 시작됩니다.
+
+![drive_paly](/drive_play.png?raw=true)
+
+
