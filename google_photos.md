@@ -36,7 +36,7 @@
 
 9. 내 PC 드라이브에도 Google Photos가 생성되었습니다.
 
-![google_photos4](/google_photos4.PNG?raw=true)
+![google_photos4](/google_photos4.png?raw=true)
 
 
 ---
