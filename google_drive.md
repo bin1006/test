@@ -14,22 +14,22 @@
 ![google_01](/google_01.PNG?raw=true)
 
 
-2. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
-3. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
+3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
+4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
 
 ![login](/googlelogin.PNG?raw=true)
 
 
-4. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
-5. 엑세스 권한 **허용** 을 클릭합니다.
+5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
+6. 엑세스 권한 **허용** 을 클릭합니다.
 
 ![access](/access.PNG?raw=true)
 
-6. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
+7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
 ![google_drive(z)](/google_drive(z).PNG?rawe=true)
 
-7. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
+8. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
 
 ![pc_drive](/pc_drive.PNG?rawe=true)
 
