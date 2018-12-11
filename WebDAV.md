@@ -9,7 +9,7 @@
 
 - 드라이브 옵션 설명
   - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
-  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md#webdav-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
+  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md#webdav-%EB%A1%9C%EA%B7%B8%EC%9D%B8){:target="_blank"}
   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
