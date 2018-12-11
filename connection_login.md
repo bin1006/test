@@ -13,6 +13,7 @@
 ![google_login](/googlelogin.PNG?raw=true)
 
 
+
 ---
 
 
@@ -29,3 +30,9 @@
 
 ![webdav_login2](/webdav_login2.PNG?raw=true)
 
+4. 확인 버튼을 클릭하면 드라이브가 생성된 화면이 출력됩니다.
+
+![webdav_login3](/webdav_login3.PNG?raw=true)
+
+
+---
