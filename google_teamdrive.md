@@ -94,11 +94,11 @@
 
 1. 드라이브를 삭제하려는 경우 먼저 드라이브 연결 정지 상태로 변환 후 휴지통 아이콘을 클릭합니다.
 
-![drive_delet1](/drive_delet1.png?raw=true)
+![teamdrive_delet1](/teamdrive_delet1.png?raw=true)
 
 2. 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
 
-![drive_delet2](/drive_delet2.PNG?raw=true)
+![teamdrive_delet2](/teamdrive_delet2.PNG?raw=true)
 
 3. 확인 버튼을 클릭하면 드라이브가 삭제됩니다.
 
