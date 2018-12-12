@@ -24,7 +24,7 @@
 
 ![access](/access.PNG?raw=true)
 
-7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
+7. 엑세스 권한이 허용되면 RaiDrive가 Google Team Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
 ![team_access](/team_access.PNG?rawe=true)
 
