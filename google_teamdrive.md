@@ -11,7 +11,7 @@
   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
   
-![google_01](/google_01.PNG?raw=true)
+![team_drive](/team_drive.PNG?raw=true)
   
 3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
 4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
