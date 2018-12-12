@@ -28,13 +28,13 @@
 
 ![team_access](/team_access.PNG?rawe=true)
 
-8. Google Drive와 연결에 성공했습니다.
+8. Google Team Drive와 연결에 성공했습니다.
 
 ![team_drive1](/team_drive1.PNG?raw=true)
 
-9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
+9. 내 PC 드라이브에도 Google Team Drive가 생성되었습니다.
 
-![team_pcdrive](/pc_drive.PNG?raw=true)
+![team_pcdrive](/team_pcdrive.PNG?raw=true)
 
     
 
