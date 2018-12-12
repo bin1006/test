@@ -26,15 +26,15 @@
 
 7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
-![google_drive(z)](/google_drive(z).PNG?rawe=true)
+![team_access](/team_access.PNG?rawe=true)
 
 8. Google Drive와 연결에 성공했습니다.
 
-![google_drive](/google_drive.PNG?raw=true)
+![team_drive1](/team_drive1.PNG?raw=true)
 
 9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
 
-![pc_drive](/pc_drive.PNG?raw=true)
+![team_pcdrive](/pc_drive.PNG?raw=true)
 
     
 
