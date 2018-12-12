@@ -71,7 +71,7 @@
    
 2. 드라이브 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
 
-![teamdrive_setting](/teamdrive_setting.PNG?raw=true)
+![teamdrive_setting](/teamdrive_setting.png?raw=true)
 
 3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
 
