@@ -61,6 +61,20 @@
 
 1. 연결된 스토리지를 정지 시킵니다.
 
-- [드라이브 연결 끊기]
+- [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/google_photos.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
+
+  - 드라이브 연결 중에는 편집이 불가능합니다.
+  
+2. 드라이브 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
+
+![[photos_editing1](/photos_editing1.png?raw=true)
+
+3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
+
+![photos_editing2](/photos_editing2.PNG?raw=true)
+
+
+
+
 
 
