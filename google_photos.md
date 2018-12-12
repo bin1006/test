@@ -73,7 +73,6 @@
 ![photos_editing2](/photos_editing2.PNG?raw=true)
 
 
-
 # 드라이브 삭제
 
 
