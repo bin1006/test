@@ -17,13 +17,13 @@
 3. 확인 버튼을 클릭하면 다음과 같이 Microsoft 사용자 계정으로 로그인 할 수 있는 화면이 출력됩니다.
 4. 전자 메일, 전화 또는 Skype를 입력한 후 다음 버튼을 클릭합니다.
 
-![onedrive_2](/onedrive_2.PNG?raw=true)
+![onedrive_login](/onedrive_login.PNG?raw=true)
 
 
 5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
 6. 엑세스 권한 **허용** 을 클릭합니다.
 
-![onedrive_3](/onedrive_3.PNG?raw=true)
+![onedrive_access](/onedrive_access.PNG?raw=true)
 
 7. 엑세스 권한이 허용되면 RaiDrive가 OneDrive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
