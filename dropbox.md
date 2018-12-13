@@ -14,28 +14,31 @@
 ![dropbox_1](/dropbox_1.PNG?raw=true)
 
 
-3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
+3. 확인 버튼을 클릭하면 다음과 같이 Dropbox 계정으로 로그인 할 수 있는 화면이 출력됩니다.
+- Google 계정으로 로그인도 가능합니다.
+  ![dropbox_google](/dropbox_google.PNG?raw=true)
+
 4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
 
-![login](/googlelogin.PNG?raw=true)
+![dropbox_2](/dropbox_2.PNG?raw=true)
 
 
 5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
 6. 엑세스 권한 **허용** 을 클릭합니다.
 
-![access](/access.PNG?raw=true)
+![dropbox_3](/dropbox_3.PNG?raw=true)
 
-7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
+7. 엑세스 권한이 허용되면 RaiDrive가 Dropbox에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
-![google_drive(z)](/google_drive(z).PNG?rawe=true)
+![dropbox_4](/dropbox_4.PNG?rawe=true)
 
 8. Google Drive와 연결에 성공했습니다.
 
-![google_drive](/google_drive.PNG?raw=true)
+![dropbox_5](/dropbox_5.PNG?raw=true)
 
 9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
 
-![pc_drive](/pc_drive.PNG?raw=true)
+![dropbox_6](/dropbox_6.PNG?raw=true)
 
     
 
@@ -102,4 +105,4 @@
 ![drive_delet2](/drive_delet2.PNG?raw=true)
 
 3. 확인 버튼을 클릭하면 드라이브가 삭제됩니다.
-
+ 
