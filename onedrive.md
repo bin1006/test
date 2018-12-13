@@ -1,8 +1,8 @@
-# One Drive 연결
+# OneDrive 연결
 
 ## 드라이브 추가
 
-1. 스토리지에서 One Drive를 선택합니다.
+1. 스토리지에서 OneDrive를 선택합니다.
 2. 드라이브 옵션 설정한 후 확인 버튼을 클릭합니다.
 
 - 드라이브 옵션 설명
@@ -14,8 +14,8 @@
 ![onedrive_1](/onedrive_1.PNG?raw=true)
 
 
-3. 확인 버튼을 클릭하면 다음과 같이 구글 계정으로 로그인 할 수 있는 화면이 출력됩니다.
-4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
+3. 확인 버튼을 클릭하면 다음과 같이 Microsoft 사용자 계정으로 로그인 할 수 있는 화면이 출력됩니다.
+4. 전자 메일, 전화 또는 Skype를 입력한 후 다음 버튼을 클릭합니다.
 
 ![onedrive_2](/onedrive_2.PNG?raw=true)
 
@@ -25,15 +25,15 @@
 
 ![onedrive_3](/onedrive_3.PNG?raw=true)
 
-7. 엑세스 권한이 허용되면 RaiDrive가 Google Drive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
+7. 엑세스 권한이 허용되면 RaiDrive가 OneDrive에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
 ![onedrive_4](/onedrive_4.PNG?rawe=true)
 
-8. Google Drive와 연결에 성공했습니다.
+8. OneDrive와 연결에 성공했습니다.
 
 ![onedrive_5](/onedrive_5.PNG?raw=true)
 
-9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
+9. 내 PC 드라이브에도 OneDrive가 생성되었습니다.
 
 ![onedrive_6](/onedrive_6.PNG?raw=true)
 
