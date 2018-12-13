@@ -77,7 +77,7 @@
 
 3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
 
-![dropbox_editing](/dropbox_editing.PNG?raw=true)
+![dropbox_editing1](/dropbox_editing1.PNG?raw=true)
 
 4. 사용자가 원하는 연결 상태로 편집 할 수 있습니다.
 
