@@ -33,11 +33,11 @@
 
 ![dropbox_4](/dropbox_4.PNG?rawe=true)
 
-8. Google Drive와 연결에 성공했습니다.
+8. Dropbox와 연결에 성공했습니다.
 
 ![dropbox_5](/dropbox_5.PNG?raw=true)
 
-9. 내 PC 드라이브에도 Google Drive가 생성되었습니다.
+9. 내 PC 드라이브에도 Dropbox가 생성되었습니다.
 
 ![dropbox_6](/dropbox_6.PNG?raw=true)
 
