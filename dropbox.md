@@ -20,7 +20,7 @@
 ![dropbox_2](/dropbox_2.PNG?raw=true)
 
 - Google 계정으로도  가능합니다.
-  ![dropbox_google](/dropbox_google.PNG?raw=true)
+![dropbox_google](/dropbox_google.PNG?raw=true)
 
 
 5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
