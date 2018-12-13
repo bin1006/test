@@ -68,16 +68,16 @@
 - 드라이브를 생성한 후에도 연결 상태를 편집할 수 있습니다.
 
 1. 연결된 드라이브를 정지 시킵니다.
-  - [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/google_drive.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
+  - [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/dropbox.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
     - 드라이브 연결 중에는 편집이 불가능합니다.
    
 2. 드라이브 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
 
-![googledrive_setting](/googledrive_setting.PNG?raw=true)
+![dropbox_editing](/dropbox_editing.png?raw=true)
 
 3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
 
-![setting](/setting.PNG?raw=true)
+![dropbox_editing](/dropbox_editing.PNG?raw=true)
 
 4. 사용자가 원하는 연결 상태로 편집 할 수 있습니다.
 
