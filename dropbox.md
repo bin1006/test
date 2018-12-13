@@ -100,7 +100,7 @@
 
 2. 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
 
-![dropbox_delet1](/dropbox_delet1.PNG?raw=true)
+![dropbox_delet2](/dropbox_delet2.PNG?raw=true)
 
 3. 확인 버튼을 클릭하면 드라이브가 삭제됩니다.
  
