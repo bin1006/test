@@ -58,13 +58,11 @@
 
 1. 연결 끊기 버튼을 클릭 시 사용 중이었던 스토리지 연결상태가 어두워지면서 연결이 끊기게 됩니다.
 
-![webdav_stop](/webdav_stop.PNG?raw=true)
-
+![webdav_play](/webdav_play.PNG?raw=true)
 
 2. 연결 버튼 클릭 시 스토리지 연동 상태가 밝아지면서 연결이 시작됩니다.
 
-![webdav_play](/webdav_play.PNG?raw=true)
-
+![webdav_stop](/webdav_stop.PNG?raw=true)
 
 
 
