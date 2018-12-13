@@ -19,7 +19,8 @@
 
 ![dropbox_2](/dropbox_2.PNG?raw=true)
 
-- Google 계정으로도  가능합니다.
+- Google 계정으로도 로그인 가능합니다.
+
 ![dropbox_google](/dropbox_google.PNG?raw=true)
 
 
