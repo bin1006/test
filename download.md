@@ -17,7 +17,7 @@
 
 - 그림에 표시된 **추가** 버튼을 클릭합니다.
 
-![download_3](/download_3.jpg?raw=true)
+![download_3](/download_3.PNG?raw=true)
 
 4. 클릭하면 다음과 같은 화면이 나옵니다.
    지금부터 RaiDrive로 다양한 Drive를 연동하여 사용할 수 있는 방법을 설명하겠습니다.
