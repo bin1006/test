@@ -12,6 +12,10 @@
 
 ![google_login](/googlelogin.PNG?raw=true)
 
+3. 로그인을 완료하면 드라이브가 생성됩니다.
+
+![google_drive](/google_drive.PNG?raw=true)
+
 
 
 ---
