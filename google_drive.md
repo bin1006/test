@@ -102,4 +102,3 @@
 ![drive_delet2](/drive_delet2.PNG?raw=true)
 
 3. 확인 버튼을 클릭하면 드라이브가 삭제됩니다.
-
