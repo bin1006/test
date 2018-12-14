@@ -1,6 +1,6 @@
 # 연결할 때마다 로그인
 
-- Google Drive, Google Photos, Google Team Drive, OneDrive, Dropbox 로그인
+### Google Drive, Google Photos, Google Team Drive, OneDrive, Dropbox 로그인
 
 
 1. 드라이브 추가 시 **연결할 때마다 로그인** 체크박스를 클릭한 후 드라이브를 연결합니다.
