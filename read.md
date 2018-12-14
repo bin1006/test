@@ -10,6 +10,6 @@
    - 클립보드, 구성, 새로만들기, 열기 기능이 제한됩니다.  
    
 
-![drive_read](/drive_read.PNG?raw=true)  
+![read_pcdrive](/read_pcdrive.PNG?raw=true)  
 
 
