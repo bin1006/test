@@ -4,7 +4,7 @@
 
 1. 스토리지에서 Google Drive를 선택합니다.
 
-![google1](/google1.png?raw=true)
+![google1](/google1.PNG?raw=true)
 
 2. 드라이브의 문자와 이름을 사용자가 원하는대로 설정할 수 있습니다.
    
