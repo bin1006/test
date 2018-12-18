@@ -46,18 +46,13 @@
 
 # 드라이브 연결/끊기
 
+1. 끊기 버튼(■)을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다.
 
-
-
-- RaiDrive에서 연결된 드라이브를 손쉽게 연결/끊기 가능합니다.
-
-1. 연결 끊기 버튼을 클릭 시 사용 중이었던 드라이브 연동 상태가 어두워지면서 연결이 끊기게 됩니다.
-
-![drive_paly](/drive_play.png?raw=true)
+![google8](/google8.png?raw=true)
 
 2. 연결 버튼을 클릭 시 드라이브 연동 상태가 밝아지면서 연결이 시작됩니다.
 
-![drive_stop](/drive_stop.png?raw=true)
+![google9](/google9.PNG?raw=true)
 
 ---
 
