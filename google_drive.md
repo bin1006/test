@@ -71,7 +71,7 @@
 
 # 드라이브 삭제
 
-1. 끊기 버튼(■)을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다.
+1. 끊기 버튼![stop](/stop.png?raw=true)을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다.
    삭제 버튼을 클릭합니다.
 
 ![google12](/google12.png?raw=true)
