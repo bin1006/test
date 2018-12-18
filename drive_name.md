@@ -6,6 +6,8 @@
 
 ![drive_name1](/drive_name1.png?raw=true)
 
+---
+
 ## 드라이브 이름
 
 1. 드라이브 이름은 사용자가 수정할 수 있습니다.
