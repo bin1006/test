@@ -33,7 +33,7 @@
 
 # 드라이브 연결/끊기
 
-1. 끊기 버튼![stop](/stop.png?raw=true)을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다.
+1. 끊기 버튼![stop](/stop_icon.png?raw=true)을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다.
 
 ![google8](/google8.png?raw=true)
 
