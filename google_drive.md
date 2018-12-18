@@ -34,11 +34,11 @@
 
 6. Google Drive와 연결에 성공했습니다.
 
-![google_drive](/google_drive.PNG?raw=true)
+![google6](/google6.PNG?raw=true)
 
 7. 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
-![pc_drive](/pc_drive.PNG?raw=true)
+![google7](/google7.PNG?raw=true)
 
 
 ---
