@@ -37,7 +37,7 @@
 
 ![google8](/google8.png?raw=true)
 
-2. 연결 버튼(▶)을 클릭하면 Google Drive가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
+2. 연결 버튼(![play](/play.png?raw=true)) 을 클릭하면 Google Drive가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
 ![google9](/google9.PNG?raw=true)
 
