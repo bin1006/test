@@ -25,7 +25,7 @@
 
 6. 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
-![google_name3](/google_name3.PNG?raw=true)
+![google_03](/google_03.PNG?raw=true)
 
 
 ---
