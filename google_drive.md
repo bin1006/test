@@ -4,17 +4,17 @@
 
 1. 스토리지에서 Google Drive를 선택합니다.
 
-![google1](/google1.PNG?raw=true) 
+2. 수정이 필요한 옵션을 변경합니다.
 
-2. 드라이브의 문자와 이름을 사용자가 원하는대로 설정할 수 있습니다.
-   
-![google2](/google2.png?raw=true)
+   - 드라이브 문자 및 이름 [자세히보기]()
+   - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
+   - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
+   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
+   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
-3. 수정이 필요한 옵션을 변경합니다.
-  - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
-  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
-  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
-  - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
+![google01](/google01.PNG?raw=true)
+
+
 
 ![google3](/google3.png?raw=true)
 
