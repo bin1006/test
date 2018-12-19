@@ -73,4 +73,4 @@
 
 2. 확인 버튼을 클릭하면 드라이브가 연결 목록에서 삭제됩니다.
 
-![google_08](/google_08.PNG?raw=true)
+![google_08](/google_08.png?raw=true)
