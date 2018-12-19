@@ -47,7 +47,7 @@
 
 1. 드라이브가 연결되어 있다면 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭합니다.
    
-2. 편집 버튼(![settings](/settings_icon.png?raw=true)) 을 클릭합니다.
+2. 편집 버튼(![setting](/setting_icon.png?raw=true)) 을 클릭합니다.
 
 ![google10](/google10.png?raw=true)
 
