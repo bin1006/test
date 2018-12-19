@@ -45,10 +45,10 @@
 
 # 드라이브 편집
 
-1. 드라이브가 연결되어 있다면 연결 끊기 버튼을 클릭합니다.
+1. 드라이브가 연결되어 있다면 끊기 버튼(![stop](/stop_icon1.png?raw=true)을 클릭합니다.
     - 드라이브 연결 중에는 편집이 불가능합니다.
    
-2. 편집 버튼을 클릭합니다.
+2. 편집 버튼(![settings](/settings.png?raw=true)) 을 클릭합니다.
 
 ![google10](/google10.png?raw=true)
 
