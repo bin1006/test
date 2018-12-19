@@ -49,7 +49,7 @@
    
 2. 편집 버튼(![setting](/setting_icon.png?raw=true)) 을 클릭합니다.
 
-![google10](/google10.png?raw=true)
+![google_06](/google_06.png?raw=true)
 
 3. 수정이 필요한 옵션을 변경합니다.
 
