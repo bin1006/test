@@ -27,14 +27,10 @@
 5. 사용자 비밀번호를 입력후 확인 버튼을 클릭합니다.
    - 익명 계정을 사용한다면 익명 체크박스를 클릭합니다.
       
-![synology_2](/synology_2.PNG?raw=true)
+![synology2](/synology2.PNG?raw=true)
 
 
-   
-
-
-
-7. 내PC 드라이브에서도 WebDAV가 생성되었습니다.
+6. 내PC 드라이브에서도 WebDAV가 생성되었습니다.
 
 ![synology_5](/synology_5.PNG?raw=true)
 
