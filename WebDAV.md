@@ -2,24 +2,22 @@
 
 ## 드라이브 추가
   
-
-
 1. 스토리지에서 WebDAV를 선택합니다.
 
-2. 수정이 필요한 옵션을 변경합니다.
-
-   - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
-   - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
-   - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md#webdav-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
-   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
-   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
-
-3. 먼저 NAS의 WebDAV 서버가 활성화 되어야 합니다.
-   - [Synology](https://www.synology.com/ko-kr/knowledgebase/DSM/tutorial/File_Sharing/How_to_access_files_on_Synology_NAS_with_WebDAV)
-   - [QNAP](https://www.qnap.com/ko-kr/how-to/tutorial/article/webdav%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-qnap-%EC%9B%90%EA%B2%A9-%EC%95%A1%EC%84%B8%EC%8A%A4)
-   - [ipTIME](http://iptime.com/iptime/?page_id=67&pageid=1&mod=document&keyword=raidrive&x=22&y=15&uid=18934)
+   1-1. 수정이 필요한 옵션을 변경합니다.
    
-![synology_1](/synology_1.PNG?raw=true)
+      - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
+      - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
+      - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md#webdav-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
+      - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
+      - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
+
+  1-2. 먼저 NAS의 WebDAV 서버가 활성화 되어야 합니다.
+     - [Synology](https://www.synology.com/ko-kr/knowledgebase/DSM/tutorial/File_Sharing/How_to_access_files_on_Synology_NAS_with_WebDAV)
+     - [QNAP](https://www.qnap.com/ko-kr/how-to/tutorial/article/webdav%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-qnap-%EC%9B%90%EA%B2%A9-%EC%95%A1%EC%84%B8%EC%8A%A4)
+     - [ipTIME](http://iptime.com/iptime/?page_id=67&pageid=1&mod=document&keyword=raidrive&x=22&y=15&uid=18934)
+   
+![synology1](/synology1.PNG?raw=true)
   
   
 4. 주소 라벨 오른쪽의 체크박스로 스킴(http/https)을 선택합니다.
