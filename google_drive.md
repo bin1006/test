@@ -6,11 +6,11 @@
 
 2. 수정이 필요한 옵션을 변경합니다.
 
-   - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
-   - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
-   - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
-   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
-   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
+  - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
+  - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
+  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
+  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
+  - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
 ![google01](/google01.png?raw=true) 
 
@@ -53,11 +53,11 @@
 
 3. 수정이 필요한 옵션을 변경한 후, 확인 또는 적용 버튼을 클릭합니다.
 
-  - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
-  - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
-  - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
-  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
-  - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
+ - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
+ - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
+ - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
+ - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
+ - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
 ![google11](/google11.PNG?raw=true)
 
