@@ -18,10 +18,10 @@
       - [QNAP](https://www.qnap.com/ko-kr/how-to/tutorial/article/webdav%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-qnap-%EC%9B%90%EA%B2%A9-%EC%95%A1%EC%84%B8%EC%8A%A4)
       - [ipTIME](http://iptime.com/iptime/?page_id=67&pageid=1&mod=document&keyword=raidrive&x=22&y=15&uid=18934)
    
-![synology1](/synology1.PNG?raw=true)
+![synology1](/synology1.png?raw=true)
   
   
-4. 주소 라벨 오른쪽의 체크박스로 스킴(http/https)을 선택합니다.
+2. 주소 라벨 오른쪽의 체크박스로 스킴(http/https)을 선택합니다.
 5. 서버 주소와 포트번호를 입력합니다.
 6. 최상위 폴더로 출력될 서버의 경로를 입력합니다. (선택사항)
 7. 사용자 비밀번호를 입력후 확인 버튼을 클릭합니다.  
