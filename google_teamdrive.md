@@ -12,7 +12,7 @@
   - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
   - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
   
-![team_drive01](/team_drive01.PNG?raw=true)
+![team_drive01](/team_drive01.png?raw=true)
   
 3. "구글 계정으로 로그인"이 나타나면, 이메일 또는 휴대전화를 입력한 후, 다음 버튼을 클릭합니다.
 4. 비밀번호를 입력하고 확인 버튼을 클릭합니다.
@@ -25,7 +25,7 @@
 
 6. 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
-![google_03](/google_03.PNG?raw=true)
+![team_pcdrive](/team_pcdrivw.PNG?raw=true)
     
 
 ---
