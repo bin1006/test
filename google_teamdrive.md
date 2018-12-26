@@ -46,45 +46,34 @@
 
 # 드라이브 편집
 
-
-
-
-- 드라이브를 생성한 후에도 연결 상태를 편집할 수 있습니다.
-
-1. 연결된 드라이브를 정지 시킵니다.
-  - [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/google_teamdrive.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
-    - 드라이브 연결 중에는 편집이 불가능합니다.
+1. 드라이브가 연결되어 있다면, 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭합니다.
    
-2. 드라이브 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
+2. 편집 버튼(![setting](/setting_icon.png?raw=true)) 을 클릭합니다.
 
-![teamdrive_setting](/teamdrive_setting.png?raw=true)
+![team_drive04](/team_drive04.png?raw=true)
 
-3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
+3. 수정이 필요한 옵션을 변경한 후, 확인 또는 적용 버튼을 클릭합니다.
 
-![teamdrive_setting2](/teamdrive_setting2.PNG?raw=true)
+ - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
+ - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
+ - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
+ - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
+ - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
 
-4. 사용자가 원하는 연결 상태로 편집 할 수 있습니다.
+![team_drive05](/team_drive05.PNG?raw=true)
 
 
 ---  
 
 
-
 # 드라이브 삭제
 
 
+1. 드라이브가 연결되어 있다면, 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭한 후 삭제 버튼(![delete](/delete_icon1.png?raw=true)) 을 클릭합니다.
 
+![team_drive06](/team_drive06.png?raw=true)
 
-- 드라이브 생성 후 불필요한 를 손쉽게 삭제할 수 있습니다.
+2. 확인 버튼을 클릭하면 드라이브가 연결 목록에서 삭제됩니다.
 
-
-1. 드라이브를 삭제하려는 경우 먼저 드라이브 연결 정지 상태로 변환 후 휴지통 아이콘을 클릭합니다.
-
-![teamdrive_delet1](/teamdrive_delet1.png?raw=true)
-
-2. 휴지통 아이콘을 클릭하면 다음과 같은 화면이 출력됩니다.
-
-![teamdrive_delet3](/teamdrive_delet3.png?raw=true)
-
-3. 확인 버튼을 클릭하면 드라이브가 삭제됩니다.
+![team_drive07](/team_drive07.PNG?raw=true)
 
