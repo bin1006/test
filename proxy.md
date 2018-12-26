@@ -24,4 +24,4 @@
 
 2. 프록시를 이용하여 RaiDrive와 연결이 완료되면 아래와 같이 프록시 아이콘이 생성됩니다.
 
-![proxy05](/proxy05.PNG?raw=true)
+![proxy06](/proxy06.PNG?raw=true)
