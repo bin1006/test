@@ -16,7 +16,6 @@
 
 3. 확인 버튼을 클릭하면 다음과 같이 Dropbox 계정으로 로그인 할 수 있는 화면이 출력됩니다.
 4. 이메일 또는 휴대전화를 입력한 후 다음 버튼을 클릭합니다.
-
 ![dropbox_2](/dropbox_2.PNG?raw=true)
 
 - Google 계정으로도 로그인 가능합니다.
@@ -28,27 +27,25 @@
 ![dropbox_3](/dropbox_3.PNG?raw=true)
 
 
-6. 파일 탐색기의 네트워크 드라이브로 생성됩니다.
+6. 내 PC 드라이브에도 Dropbox가 생성되었습니다.
 
-![dropbox_6](/dropbox_6.PNG?raw=true)
+![dropbox_06](/dropbox_06.PNG?raw=true)
 
+    
 
 ---
 
 
+
 # 드라이브 연결/끊기
 
+1. 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭하면 연결한 Dropbox가 파일 탐색기에서 제거됩니다.
 
+![dropbox_07](/dropbox_07.PNG?raw=true)
 
-- RaiDrive에서 연결된 드라이브를 손쉽게 연결/끊기 가능합니다.
+2. 연결 버튼(![play](/play.png?raw=true)) 을 클릭하면 Google Drive가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
-1. 연결 끊기 버튼을 클릭 시 사용 중이었던 드라이브 연동 상태가 어두워지면서 연결이 끊기게 됩니다.
-
-![dropbox_paly](/dropbox_play.png?raw=true)
-
-2. 연결 버튼을 클릭 시 드라이브 연동 상태가 밝아지면서 연결이 시작됩니다.
-
-![dropbox_stop](/dropbox_stop.PNG?raw=true)
+![dropbox_08](/dropbox_08.PNG?raw=true)
 
 ---
 
