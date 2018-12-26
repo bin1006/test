@@ -5,7 +5,6 @@
 1. 스토리지에서 Google Photos를 선택합니다.
 
 2. 수정이 필요한 옵션을 변경합니다.
-
   - 드라이브 문자 및 이름 [자세히보기](https://github.com/bin1006/test/blob/master/drive_name.md)
   - 프로그램이 시작될 때 자동 연결 [자세히보기](https://github.com/bin1006/test/blob/master/automatic.md)
   - 연결할 때마다 로그인 [자세히보기](https://github.com/bin1006/test/blob/master/connection_login.md)
