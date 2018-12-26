@@ -8,4 +8,4 @@
 
 2. 드라이브 연결에 성공하면 RaiDrive가 실행 될 때 마다 자동 연결 됩니다.
 
-![connection](/drive_connection.PNG?raw=true)  
+![automatic01](/automatic01.PNG?raw=true)  
