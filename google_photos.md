@@ -50,7 +50,7 @@
   
 2. 편집 버튼(![setting](/setting_icon.png?raw=true)) 을 클릭합니다.
 
-![photos_photos05](/photos_photos05.png?raw=true)
+![google_photos05](/google_photos05.png?raw=true)
 
 3. 수정이 필요한 옵션을 변경한 후, 확인 또는 적용 버튼을 클릭합니다.
 
@@ -60,7 +60,7 @@
  - 프록시 [자세히보기](https://github.com/bin1006/test/blob/master/proxy.md#%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9)
  - 읽기 전용 [자세히보기](https://github.com/bin1006/test/blob/master/read.md)
  
-![photos_photos06](/photos_photos06.PNG?raw=true)
+![google_photos06](/google_photos06.PNG?raw=true)
 
 
 ---
