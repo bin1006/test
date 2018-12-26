@@ -25,7 +25,7 @@
 
 6. 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
-![team_pcdrive](/team_pcdrivw.PNG?raw=true)
+![team_pcdrive](/team_pcdrive.PNG?raw=true)
     
 
 ---
@@ -33,16 +33,11 @@
 
 # 드라이브 연결/끊기
 
-
-
-
-- RaiDrive에서 연결된 드라이브를 손쉽게 연결/끊기 가능합니다.
-
-1. 연결 끊기 버튼을 클릭 시 사용 중이었던 드라이브 연동 상태가 어두워지면서 연결이 끊기게 됩니다. 
+1. 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다. 
 
 ![teamdrive_stop](/teamdrive_stop.png?raw=true)
 
-2. 연결 버튼을 클릭 시 드라이브 연동 상태가 밝아지면서 연결이 시작됩니다.
+2. 연결 버튼(![play](/play.png?raw=true)) 을 클릭하면 Google Drive가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
 ![teamdrive_play](/teamdrive_play.PNG?raw=true)
 
