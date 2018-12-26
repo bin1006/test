@@ -46,16 +46,11 @@
 
 # 드라이브 편집
 
-- 드라이브를 생성한 후에도 연결 상태를 편집할 수 있습니다.
-
-1. 연결된 스토리지를 정지 시킵니다.
-
-- [드라이브 연결 끊기](https://github.com/bin1006/test/blob/master/google_photos.md#%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B8%B0)
-  - 드라이브 연결 중에는 편집이 불가능합니다.
+1. 드라이브가 연결되어 있다면, 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭합니다.
   
-2. 드라이브 연결이 정지된 상태에서 설정 버튼을 클릭합니다.
+2. 편집 버튼(![setting](/setting_icon.png?raw=true)) 을 클릭합니다.
 
-![photos_editing1](/photos_editing1.png?raw=true)
+![photos_photos05](/photos_photos05.PNG?raw=true)
 
 3. 설정 버튼을 클릭하면 다음과 같은 화면이 출력됩니다.
 
