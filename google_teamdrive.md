@@ -35,11 +35,11 @@
 
 1. 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다. 
 
-![teamdrive_stop](/teamdrive_stop.png?raw=true)
+![team_drive02](/team_drive02.PNG?raw=true)
 
 2. 연결 버튼(![play](/play.png?raw=true)) 을 클릭하면 Google Drive가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
-![teamdrive_play](/teamdrive_play.PNG?raw=true)
+![team_drive03](/team_drive03.PNG?raw=true)
 
 
 ---
