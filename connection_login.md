@@ -10,7 +10,7 @@
 
 2. 드라이브 연결이 필요할 때마다 **로그인 과정**을 거쳐야 합니다.
 
-![google_login](/googlelogin.PNG?raw=true)
+![google_login](/google_02.PNG?raw=true)
 
 3. 로그인을 완료하면 드라이브가 생성됩니다.
 
