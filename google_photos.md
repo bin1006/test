@@ -35,11 +35,11 @@
 
 ## 드라이브 연결/끊기
 
-1. 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭하면 연결한 Google Drive가 파일 탐색기에서 제거됩니다.
+1. 끊기 버튼(![stop](/stop_icon1.png?raw=true)) 을 클릭하면 연결한 Google Photos가 파일 탐색기에서 제거됩니다.
 
 ![google_photos03](/google_photos03.PNG?raw=true)
 
-2. 연결 버튼(![play](/play.png?raw=true)) 을 클릭하면 Google Drive가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
+2. 연결 버튼(![play](/play.png?raw=true)) 을 클릭하면 Google Photos가 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
 ![google_photos04](/google_photos04.PNG?raw=true)
 
