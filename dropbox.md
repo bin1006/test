@@ -22,8 +22,7 @@
 ![dropbox_google](/dropbox_google.PNG?raw=true)
 
 
-5. 계정 연결이 완료되면 엑세스 권한 여부 화면이 출력됩니다.
-6. 엑세스 권한 **허용** 을 클릭합니다.
+5. RaiDrive가 할 수 있는 작업을 확인한 후, 허용 버튼을 클릭합니다.
 
 ![dropbox_3](/dropbox_3.PNG?raw=true)
 
