@@ -27,17 +27,15 @@
 ![dropbox_3](/dropbox_3.PNG?raw=true)
 
 
-6. 내 PC 드라이브에도 Dropbox가 생성되었습니다.
+6. 파일 탐색기의 네트워크 드라이브로 생성됩니다.
 
 ![dropbox_6](/dropbox_6.PNG?raw=true)
 
-    
 
 ---
 
 
 # 드라이브 연결/끊기
-
 
 
 
