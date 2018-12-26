@@ -14,7 +14,7 @@
 
 3. 로그인을 완료하면 드라이브가 생성됩니다.
 
-![login_google](/login_google.png?raw=true)
+![google_login](/google_login.PNG?raw=true)
 
 
 
