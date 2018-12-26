@@ -26,15 +26,8 @@
 
 ![dropbox_3](/dropbox_3.PNG?raw=true)
 
-7. 엑세스 권한이 허용되면 RaiDrive가 Dropbox에 있는 파일과 폴더에 접속할 수 있게 됩니다.
 
-![dropbox_4](/dropbox_4.PNG?rawe=true)
-
-8. Dropbox와 연결에 성공했습니다.
-
-![dropbox_5](/dropbox_5.PNG?raw=true)
-
-9. 내 PC 드라이브에도 Dropbox가 생성되었습니다.
+6. 내 PC 드라이브에도 Dropbox가 생성되었습니다.
 
 ![dropbox_6](/dropbox_6.PNG?raw=true)
 
